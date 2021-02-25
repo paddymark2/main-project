@@ -1,0 +1,3 @@
+[submodule "sub-priject"]
+	path = sub-priject
+	url = git@github.com:paddymark2/sub-priject.git
